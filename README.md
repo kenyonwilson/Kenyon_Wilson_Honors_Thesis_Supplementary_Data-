@@ -2,7 +2,7 @@
  The different files quoted in my Honors Thesis (The role of selection on determining the genomic diversity of Gardnerella vaginalis, Spring 2020) at Washington State University can be found in this repository. 
 1.	The file titled data_hyphy.xlsx lists all of the results from the results from the HyPhy program with BUSTED functioning. 
 2.	The file titled enrichment_core_genome.xlsx contains the results of the Fisher’s Exact test done on the enrichment of the core genome. 
-3.	The file titled enrichment_multi_selection.xlsx contains the results of the Fisher’s Exact test done on the enrichment of the dispensable genome. 
+3.	The file titled enrichment_multi_selection.xlsx contains the results of the Fisher’s Exact test done on the enrichment of the genes under selection in the dispensable genome. 
 4.	The generate_counts.R file is a script developed by Dr. Cornejo that was used to create the output of synonymous and nonsynonymous variable sites and the synonymous sites were used to create the site frequency spectrum.
 5.	The get_syn_nonSyn.sh file combined the generate_counts.R script and the get_syn_nonSyn.py scripts into a single routine. 
 6.	The file called get_syn_nonsyn.py is a script developed by Dr. Cornejo that obtains the synonymous and nonsynonymous sites from the alignments. 
